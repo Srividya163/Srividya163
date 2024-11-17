@@ -26,4 +26,4 @@ This README serves as a showcase of my ideas, skills, and the journey I've embar
 ## **Connect With Me**
 - **Email:** ponnalasrividya16@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/srividyaponnala/
-- **GitHub:** 
+- **GitHub:** https://github.com/Srividya163
