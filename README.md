@@ -10,7 +10,6 @@ This README serves as a showcase of my ideas, skills, and the journey I've embar
 - **DataBase:** Mysql.
 - **Visual Tools:** PowerBI,MS Excel.
 - **Libraries:** Numpy,Pandas.
-- **Framework:** Django(Basic Knowledge).
 - **Developer Tools:** GitHub,VS Code.
 - **Academic CourseWork:** DBMS,Computer Network,OS,OOPs.
 - **DSA:** Arrays,Sorting Methods and LinkedList.
