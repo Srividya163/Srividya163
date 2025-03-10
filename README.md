@@ -16,8 +16,8 @@ This README serves as a showcase of my ideas, skills, and the journey I've embar
 
 ## **Projects**
 - **SQL-PizzaSales Management:** [Pizzasales Management](https://github.com/Srividya163/Srividya163/blob/2b09c9c9f2d2837051c2a27171f01a80a8e2eae7/PIZZASALES%20PROJECT.pdf)
-- **SQL-Layoffs Analysis:-** [Layoffs Analysis](https://github.com/Srividya163/SQL_Layoffs_Project)
-- 
+- **SQL-Layoffs Analysis:** [Layoffs Analysis](https://github.com/Srividya163/SQL_Layoffs_Project)
+- **Python:** [AI-IN-MEDICINE](https://github.com/Srividya163/AI-In-MEDICINE)
 
 ## **Connect With Me**
 - **Email:** ponnalasrividya16@gmail.com
